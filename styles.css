@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0px;
+	padding:0px;
+}
+.container1{
+	background-color:lightblue;
+	width:300px;
+	border:15px solid blue;
+	padding:50px;
+	margin: 20px	
+}
